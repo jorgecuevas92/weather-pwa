@@ -17,14 +17,14 @@
   <link rel="apple-touch-icon" sizes="152x152" href="/assets/apple-152.png">
   <link rel="apple-touch-icon" sizes="167x167" href="/assets/apple-167.png">
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-180.png">
-  <link rel="stylesheet" media="all" href="/assets/application.css">
+  <%= stylesheet_link_tag "application" %>
   <%= csrf_meta_tags %>
 </head>
 <body>
 
 <%= yield %>
 
-<script src="/assets/application.js"></script>
+<%= javascript_include_tag "application" %>
 
 
 </body>

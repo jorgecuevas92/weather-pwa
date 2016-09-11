@@ -12119,3 +12119,126 @@ Started GET "/serviceworker.js" for 127.0.0.1 at 2016-09-10 22:43:19 -0500
 
 
 Started GET "/serviceworker.js" for 127.0.0.1 at 2016-09-10 22:43:23 -0500
+
+
+Started GET "/assets/serviceworker.js" for 127.0.0.1 at 2016-09-10 22:45:34 -0500
+
+
+Started GET "/serviceworker.js" for 127.0.0.1 at 2016-09-10 22:45:35 -0500
+
+
+Started GET "/serviceworker.js" for 127.0.0.1 at 2016-09-10 22:45:41 -0500
+
+
+Started GET "/serviceworker.js" for 127.0.0.1 at 2016-09-10 22:46:04 -0500
+
+
+Started GET "/serviceworker.js" for 127.0.0.1 at 2016-09-10 22:46:29 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-10 22:58:04 -0500
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 162ms (Views: 161.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/home.self-b71617cf5cdce7301b008c649cda88506ff6638ae419552c9f6a3927893a7300.css?body=1" for 127.0.0.1 at 2016-09-10 22:58:04 -0500
+
+
+Started GET "/assets/application.self-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css?body=1" for 127.0.0.1 at 2016-09-10 22:58:04 -0500
+
+
+Started GET "/assets/jquery.self-bd7ddd393353a8d2480a622e80342adf488fb6006d667e8b42e4c0073393abee.js?body=1" for 127.0.0.1 at 2016-09-10 22:58:04 -0500
+
+
+Started GET "/assets/jquery_ujs.self-784a997f6726036b1993eb2217c9cb558e1cbb801c6da88105588c56f13b466a.js?body=1" for 127.0.0.1 at 2016-09-10 22:58:05 -0500
+
+
+Started GET "/assets/turbolinks.self-c5acd7a204f5f25ce7a1d8a0e4d92e28d34c9e2df2c7371cd7af88e147e4ad82.js?body=1" for 127.0.0.1 at 2016-09-10 22:58:05 -0500
+
+
+Started GET "/assets/home.self-45e733b3a98c5c4022f18e1af7d4f9c267a4dcf4f3aa6e63f25468fe386cd8ea.js?body=1" for 127.0.0.1 at 2016-09-10 22:58:05 -0500
+
+
+Started GET "/assets/localforage-1.4.0.self-de08c4d6b4ec2770c2b2654b8dd88107335205b3c9ce008b59d3980609bec5fa.js?body=1" for 127.0.0.1 at 2016-09-10 22:58:05 -0500
+
+
+Started GET "/assets/serviceworker.self-f245c743c5b6415f4450f95c0b5691ac8a7dc59395775cda03e6e5fd9bf06564.js?body=1" for 127.0.0.1 at 2016-09-10 22:58:05 -0500
+
+
+Started GET "/assets/application.self-3b8dabdc891efe46b9a144b400ad69e37d7e5876bdc39dee783419a69d7ca819.js?body=1" for 127.0.0.1 at 2016-09-10 22:58:05 -0500
+
+
+Started GET "/assets/ic_refresh_white_24px.svg" for 127.0.0.1 at 2016-09-10 22:58:05 -0500
+
+
+Started GET "/assets/ic_add_white_24px.svg" for 127.0.0.1 at 2016-09-10 22:58:05 -0500
+
+
+Started GET "/serviceworker.js" for 127.0.0.1 at 2016-09-10 22:58:07 -0500
+
+
+Started GET "/assets/application.css" for 127.0.0.1 at 2016-09-10 22:58:07 -0500
+
+
+Started GET "/" for 127.0.0.1 at 2016-09-10 22:58:07 -0500
+Processing by HomeController#index as */*
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 66ms (Views: 65.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.js" for 127.0.0.1 at 2016-09-10 22:58:07 -0500
+
+
+Started GET "/assets/cloudy-scattered-showers.png" for 127.0.0.1 at 2016-09-10 22:58:07 -0500
+
+
+Started GET "/assets/clear.png" for 127.0.0.1 at 2016-09-10 22:58:07 -0500
+
+
+Started GET "/assets/cloudy.png" for 127.0.0.1 at 2016-09-10 22:58:07 -0500
+
+
+Started GET "/assets/fog.png" for 127.0.0.1 at 2016-09-10 22:58:07 -0500
+
+
+Started GET "/assets/partly-cloudy.png" for 127.0.0.1 at 2016-09-10 22:58:07 -0500
+
+
+Started GET "/assets/rain.png" for 127.0.0.1 at 2016-09-10 22:58:07 -0500
+
+
+Started GET "/assets/scattered-showers.png" for 127.0.0.1 at 2016-09-10 22:58:07 -0500
+
+
+Started GET "/assets/thunderstorm.png" for 127.0.0.1 at 2016-09-10 22:58:07 -0500
+
+
+Started GET "/assets/sleet.png" for 127.0.0.1 at 2016-09-10 22:58:07 -0500
+
+
+Started GET "/assets/snow.png" for 127.0.0.1 at 2016-09-10 22:58:07 -0500
+
+
+Started GET "/assets/wind.png" for 127.0.0.1 at 2016-09-10 22:58:07 -0500
+
+
+Started GET "/assets/ic_refresh_white_24px.svg" for 127.0.0.1 at 2016-09-10 22:58:07 -0500
+
+
+Started GET "/assets/ic_add_white_24px.svg" for 127.0.0.1 at 2016-09-10 22:58:07 -0500
+
+
+Started GET "/assets/clear.png" for 127.0.0.1 at 2016-09-10 22:58:08 -0500
+
+
+Started GET "/assets/partly-cloudy.png" for 127.0.0.1 at 2016-09-10 22:58:08 -0500
+
+
+Started GET "/assets/rain.png" for 127.0.0.1 at 2016-09-10 22:58:08 -0500
+
+
+Started GET "/assets/snow.png" for 127.0.0.1 at 2016-09-10 22:58:08 -0500
+
+
+Started GET "/assets/wind.png" for 127.0.0.1 at 2016-09-10 22:58:08 -0500
