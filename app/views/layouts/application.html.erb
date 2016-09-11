@@ -1,14 +1,31 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>WeatherPwa</title>
-  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
-  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Weather App for UD811">
+  <meta name="theme-color" content="#2F3BA2">
+  <%= favicon_link_tag %>
+  <title>Weather Rails</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Weather">
+  <link rel="apple-touch-icon" sizes="60x60" href="/assets/apple-60.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/assets/apple-76.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/apple-120.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/apple-152.png">
+  <link rel="apple-touch-icon" sizes="167x167" href="/assets/apple-167.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-180.png">
+  <link rel="stylesheet" media="all" href="/assets/application.css">
   <%= csrf_meta_tags %>
 </head>
 <body>
 
 <%= yield %>
+
+<script src="/assets/application.js"></script>
+
 
 </body>
 </html>
