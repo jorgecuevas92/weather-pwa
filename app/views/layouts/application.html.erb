@@ -17,7 +17,7 @@
   <link rel="apple-touch-icon" sizes="152x152" href="/assets/apple-152.png">
   <link rel="apple-touch-icon" sizes="167x167" href="/assets/apple-167.png">
   <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-180.png">
-  <%= stylesheet_link_tag "application" %>
+  <link rel="stylesheet" href="/assets/application.css" />
   <link rel="manifest" href="/assets/manifest.json">
   <%= csrf_meta_tags %>
 </head>
@@ -25,8 +25,7 @@
 
 <%= yield %>
 
-<%= javascript_include_tag "application" %>
-
+<script src="/assets/application.js"></script>
 
 </body>
 </html>
