@@ -1,0 +1,48 @@
+{:uriI"Öfile://app/assets/javascripts/manifest.json?type=application/json&id=8d903d5d3c16ed075b294126819f3dba9866f0c997cc9b22b9966b355a38184b:ET:load_pathI"app/assets/javascripts;T:filenameI")app/assets/javascripts/manifest.json;T:	nameI"manifest;T:logical_pathI"manifest.json;T:content_typeI"application/json;T:sourceI"‘{
+  "name": "Weather",
+  "short_name": "Weather",
+  "icons": [{
+      "src": "/assets/icon-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }, {
+      "src": "/assets/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }, {
+      "src": "/assets/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }, {
+      "src": "/assets/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "/assets/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }, {
+      "src": "/assets/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }, {
+      "src": "/assets/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    }, {
+      "src": "/assets/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#3E4EB8",
+  "theme_color": "#2F3BA2"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"7file-digest://app/assets/javascripts/manifest.json;TTF:charsetI"
+utf-8;F:digest"%oZ≤K{-á[ßˇÌ¯Â”à1
+êc∆bå8,û~0ØâÍ≤—:lengthi‘:dependencies_digest"%sAwxhâÇ\—Ö£Cmñ}D¬a S;
+ó∏4Ÿ%õ±:idI"E8d903d5d3c16ed075b294126819f3dba9866f0c997cc9b22b9966b355a38184b;F:
+mtimel+è‹‘W
