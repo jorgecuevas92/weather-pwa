@@ -11,8 +11,8 @@ default: &default
 
 development:
   <<: *default
-  username: cetra
-  password: 229200
+  username: weather
+  password: pwa
   database: weather_pwa_development
 
 # Warning: The database defined as "test" will be erased and
@@ -20,8 +20,8 @@ development:
 # Do not set this db to the same as development or production.
 test:
   <<: *default
-  username: cetra
-  password: 229200
+  username: weather
+  password: pwa
   database: weather_pwa_test
 
 production:
